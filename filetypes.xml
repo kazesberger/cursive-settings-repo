@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="*riemann*.config" type="EDN" />
+      <removed_mapping pattern="*riemann*.config" approved="true" type="Clojure" />
     </extensionMap>
   </component>
 </application>
