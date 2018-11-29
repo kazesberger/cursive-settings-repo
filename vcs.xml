@@ -6,7 +6,12 @@
           <option name="url" value="http://gitblit.infonova.at" />
           <option name="userName" value="kazesberger" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/kazesberger/xml-parsing-kata.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="$USER_HOME$/git/clj" />
   </component>
 </application>
