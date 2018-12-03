@@ -3,6 +3,9 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="*riemann*.config" type="EDN" />
+      <mapping pattern="resources/inputs" type="PLAIN_TEXT" />
+      <mapping pattern="inputs/y2018/d01" type="PLAIN_TEXT" />
+      <mapping pattern="d01" type="PLAIN_TEXT" />
       <removed_mapping pattern="*riemann*.config" approved="true" type="Clojure" />
     </extensionMap>
   </component>
