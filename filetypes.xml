@@ -3,6 +3,8 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="*riemann*.config" type="EDN" />
+      <mapping pattern="puzzle-input/y18d01" type="PLAIN_TEXT" />
+      <mapping pattern="y18d01" type="PLAIN_TEXT" />
       <removed_mapping pattern="*riemann*.config" approved="true" type="Clojure" />
     </extensionMap>
   </component>
