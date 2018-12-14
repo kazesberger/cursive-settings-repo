@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="y18d04" type="PLAIN_TEXT" />
+      <mapping pattern="y18d07-borkdude" type="PLAIN_TEXT" />
       <mapping pattern="y18d07" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
