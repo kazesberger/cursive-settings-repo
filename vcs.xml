@@ -14,8 +14,12 @@
           <option name="url" value="https://github.com/kazesberger/adventofcode.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://kazesberger@gitblit.infonova.at/r/sips/ops/delivery/delivery-grafana-config.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/git/clj" />
+    <option name="cloneParentDir" value="$USER_HOME$/git/sips" />
   </component>
 </application>
