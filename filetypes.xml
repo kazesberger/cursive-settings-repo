@@ -10,7 +10,6 @@
       <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="sampe" type="PLAIN_TEXT" />
-      <mapping ext="ini" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
