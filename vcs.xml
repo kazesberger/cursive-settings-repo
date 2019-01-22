@@ -34,8 +34,12 @@
           <option name="url" value="https://github.com/n2o/reveal-cljs.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/go-gitea/gitea.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/git/clj/private/practice" />
+    <option name="cloneParentDir" value="$USER_HOME$/git/sips" />
   </component>
 </application>
