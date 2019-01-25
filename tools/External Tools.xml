@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="plk" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="planck" />
+      <option name="PARAMETERS" value="-c src -n 7777" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/git/clj/planck-scripts" />
+    </exec>
+  </tool>
+</toolSet>
