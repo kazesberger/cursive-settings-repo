@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="y18d04" type="PLAIN_TEXT" />
       <mapping pattern="y18d02" type="PLAIN_TEXT" />
       <mapping pattern="inventory" type="PLAIN_TEXT" />
@@ -10,6 +9,7 @@
       <mapping pattern="y18d07" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
+      <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="sampe" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
