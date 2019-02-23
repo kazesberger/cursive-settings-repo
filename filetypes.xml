@@ -5,6 +5,7 @@
       <mapping pattern="y18d02" type="PLAIN_TEXT" />
       <mapping pattern="inventory" type="PLAIN_TEXT" />
       <mapping pattern="y18d07-borkdude" type="PLAIN_TEXT" />
+      <mapping pattern="foo" type="PLAIN_TEXT" />
       <mapping pattern="y18d08" type="PLAIN_TEXT" />
       <mapping pattern="y18d07" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
