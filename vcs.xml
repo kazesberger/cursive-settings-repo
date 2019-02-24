@@ -50,9 +50,13 @@
           <option name="url" value="https://kazesberger@gitblit.infonova.at/r/sips/ops/delivery/delivery-copy-secrets.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ring-clojure/ring.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/git/sips" />
+    <option name="cloneParentDir" value="$USER_HOME$/git/clj" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COMPACT_REFERENCES_VIEW" value="false" />
