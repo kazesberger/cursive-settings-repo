@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="vorher" type="JSON" />
       <mapping pattern="y18d04" type="PLAIN_TEXT" />
       <mapping pattern="y18d02" type="PLAIN_TEXT" />
       <mapping pattern="inventory" type="PLAIN_TEXT" />
