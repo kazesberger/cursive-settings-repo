@@ -15,6 +15,7 @@
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="sampe" type="PLAIN_TEXT" />
+      <mapping pattern="nginx-special" type="YAML" />
     </extensionMap>
   </component>
 </application>
