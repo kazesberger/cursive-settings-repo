@@ -14,5 +14,6 @@
     <mask>*.mxml</mask>
     <mask>pom.xml</mask>
     <mask>*.go</mask>
+    <mask>inventory</mask>
   </component>
 </application>
