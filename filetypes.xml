@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="vorher" type="JSON" />
       <mapping pattern="foo" type="PLAIN_TEXT" />
+      <mapping pattern=".foo" type="PLAIN_TEXT" />
       <mapping pattern="project_r6partnerportal_preprod" type="PLAIN_TEXT" />
       <mapping pattern="y18d07-borkdude" type="PLAIN_TEXT" />
       <mapping pattern="inventory" type="PLAIN_TEXT" />
