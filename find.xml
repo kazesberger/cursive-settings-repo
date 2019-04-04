@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.yml" />
+    <option name="FILE_MASK" value="inventory.yml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -16,7 +16,7 @@
     <mask>pom.xml</mask>
     <mask>*.go</mask>
     <mask>inventory</mask>
-    <mask>inventory.yml</mask>
     <mask>*.yml</mask>
+    <mask>inventory.yml</mask>
   </component>
 </application>
