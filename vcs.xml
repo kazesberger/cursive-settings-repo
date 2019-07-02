@@ -78,9 +78,13 @@
           <option name="url" value="ssh://kazesberger@r6product-git.infonova.at:29418/r6-ansible/r6-devintegration-installer.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/kubernetes-incubator/external-dns.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/git/r6core" />
+    <option name="cloneParentDir" value="$USER_HOME$/git/sips" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_TAG_NAMES" value="true" />
