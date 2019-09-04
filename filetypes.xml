@@ -16,13 +16,14 @@
       <mapping pattern="y18d07" type="PLAIN_TEXT" />
       <mapping pattern="y18d04" type="PLAIN_TEXT" />
       <mapping pattern="y18d02" type="PLAIN_TEXT" />
-      <mapping ext="crt" type="PLAIN_TEXT" />
-      <mapping ext="graph" type="PLAIN_TEXT" />
-      <mapping ext="sample" type="PLAIN_TEXT" />
-      <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
+      <mapping ext="crt" type="PLAIN_TEXT" />
+      <mapping ext="j2" type="PLAIN_TEXT" />
+      <mapping ext="graph" type="PLAIN_TEXT" />
       <mapping ext="sampe" type="PLAIN_TEXT" />
+      <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
+      <mapping ext="env" type="TOML" />
       <mapping pattern="nginx-special" type="YAML" />
     </extensionMap>
   </component>
