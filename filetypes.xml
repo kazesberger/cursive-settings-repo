@@ -11,6 +11,7 @@
       <mapping pattern="gitea" type="PLAIN_TEXT" />
       <mapping pattern="inventory" type="PLAIN_TEXT" />
       <mapping pattern="vault" type="PLAIN_TEXT" />
+      <mapping pattern="ansible-vault" type="PLAIN_TEXT" />
       <mapping pattern="namespaces" type="PLAIN_TEXT" />
       <mapping pattern=".envrc" type="PLAIN_TEXT" />
       <mapping pattern=".swp" type="PLAIN_TEXT" />
@@ -20,10 +21,10 @@
       <mapping pattern="y18d04" type="PLAIN_TEXT" />
       <mapping pattern="y18d02" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
-      <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="graph" type="PLAIN_TEXT" />
       <mapping ext="sampe" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
