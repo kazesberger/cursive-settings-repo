@@ -7,4 +7,7 @@
   </action>
   <action id="Exit" />
   <action id="GotoFile" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
 </keymap>
